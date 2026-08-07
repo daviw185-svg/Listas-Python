@@ -1,13 +1,13 @@
 # Bahia Peixe - Cardápio Digital
 
 cardapio = {
-        '- Isca de Peixe': {'Categoria': 'Prato principal' , 'Preço': 67.00},
-        '- Tilápia': {'Categoria': 'Prato principal' , 'Preço': 75.00},
-        '- Barca de Sushi': {'Categoria': 'Peças' , 'Preço': 80.00}, 
-        '- Suco de Laranja': {'Categoria': 'Bebidas' , 'Preço': 7.00}, 
-        '- Suco de Maracujá': {'Categoria': 'Bebidas' , 'Preço': 7.00}, 
-        '- Refri Coca-Cola 2L': {'Categoria': 'Bebidas' , 'Preço': 11.00}, 
-        '- Refri Coca-Cola Zero 2L': {'Categoria': 'Bebidas' , 'Preço': 10.00}
+        'Isca de Peixe': {'Categoria': 'Prato principal' , 'Preço': 67.00},
+        'Tilápia': {'Categoria': 'Prato principal' , 'Preço': 75.00},
+        'Barca de Sushi': {'Categoria': 'Peças' , 'Preço': 80.00}, 
+        'Suco de Laranja': {'Categoria': 'Bebidas' , 'Preço': 7.00}, 
+        'Suco de Maracujá': {'Categoria': 'Bebidas' , 'Preço': 7.00}, 
+        'Refri Coca-Cola 2L': {'Categoria': 'Bebidas' , 'Preço': 11.00}, 
+        'Refri Coca-Cola Zero 2L': {'Categoria': 'Bebidas' , 'Preço': 10.00}
 }
 
 def cardapioDigital ():

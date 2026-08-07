@@ -8,8 +8,7 @@ produto = [
 
 for produtos in produto: 
    codigo, nome, garantia, meses_de_uso = produtos
-
-print(f'Código: {codigo} \nNome: {nome} \nGarantia: {garantia} meses.')
+   print(f'\nCódigo: {codigo} \nNome: {nome} \nGarantia: {garantia} meses.\n')
 
 if meses_de_uso <= garantia:
    print(f'Em garantia! Restam {garantia - meses_de_uso} meses')
